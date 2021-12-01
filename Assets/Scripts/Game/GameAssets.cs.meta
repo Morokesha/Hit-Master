@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cd0ef961df89a774a99d4d7a348bd68a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _pfEnemy: {fileID: -6848759882226981892, guid: f80e949583eaa8a4db716f7bb984f43a, type: 3}
+  - _pfbBullet: {fileID: 3988953532328363634, guid: 93e6597f983382642a3010e0f1c92175, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
